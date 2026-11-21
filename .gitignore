@@ -1,0 +1,9 @@
+# このリポジトリでは完成した .tox だけを管理する
+# （tox を作るための python や README などのローカル資材は置かない）
+*
+!*/
+!*.tox
+!.gitkeep
+!.gitignore
+!/LICENSE
+!/README.md
